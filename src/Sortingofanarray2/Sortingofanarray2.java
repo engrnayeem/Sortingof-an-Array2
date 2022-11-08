@@ -14,6 +14,7 @@ import java.util.Arrays;
 public class Sortingofanarray2 {
 
     public static void main(String[] args) {
+        //descending order
         //variable declaration area
         int i;
         int[] x = {7, 8, 6, 4, 2, 1, 3, 5};
